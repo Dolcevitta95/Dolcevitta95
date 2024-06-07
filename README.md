@@ -1,6 +1,6 @@
 # Biografía de GitHub
 
-## 👋 ¡Hola!
+# 👋 ¡Hola!
 
 ### Un Poco Sobre Mí
 
