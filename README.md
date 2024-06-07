@@ -49,5 +49,6 @@ Thanks for visiting my profile!
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetvitta&theme=ambient_gradient&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetvitta&theme=ambient_gradient&layout=donut)](https://github.com/sweetvitta/github-readme-stats)
 
 
