@@ -1,42 +1,42 @@
-# Biografía de GitHub
+# GitHub Bio
 
-# 👋 ¡Hola!
+# 👋 Hello!
 
-### Un Poco Sobre Mí
+### A Little About Me
 
-Soy nuevo en el campo de GitHub, ¡pero estoy ansioso por aprender y crecer! Comencé mi viaje en el mundo de la programación en febrero de este año, aprendiendo los fundamentos y avanzando a pasos agigantados. Actualmente estoy participando en un bootcamp de inteligencia artificial en Factoria F5, donde estoy explorando nuevas áreas y ampliando mis habilidades.
+I'm new to the GitHub field, but I'm eager to learn and grow! I started my journey in the programming world in February of this year, learning the basics and making strides. Currently, I'm participating in an artificial intelligence bootcamp at Factoria F5, where I'm exploring new areas and expanding my skills.
 
-### 💻 Habilidades en Programación
+### 💻 Programming Skills
 
-- **C**: Aprendí lo básico en C durante mi tiempo en la piscina de 42. Aunque mis conocimientos son limitados, estoy emocionado de seguir explorando y mejorando en este lenguaje.
-- **Python**: He tenido la oportunidad de experimentar un poco con Python y estoy disfrutando cada paso que doy en este lenguaje.
+- **C**: I learned the basics of C during my time at the 42 piscine. Although my knowledge is limited, I'm excited to continue exploring and improving in this language.
+- **Python**: I've had the chance to dabble in Python, and I'm enjoying every step I take in this language.
 
-### 🧠 Pasión por la Inteligencia Artificial
+### 🧠 Passion for Artificial Intelligence
 
-Me apasiona el fascinante mundo de la inteligencia artificial y el aprendizaje automático. Estoy emocionado de explorar cómo estos campos pueden transformar nuestras vidas y resolver problemas complejos.
+I'm passionate about the fascinating world of artificial intelligence and machine learning. I'm excited to explore how these fields can transform our lives and solve complex problems.
 
-### 🐱 Amante de los Gatos
+### 🐱 Cat Lover
 
-¡No puedo olvidar mencionar mi amor por los gatos! Pasar tiempo con ellos es una de mis actividades favoritas fuera de la programación.
+I can't forget to mention my love for cats! Spending time with them is one of my favorite activities outside of programming.
 
 ### 🎮 Hobbies
 
-Disfruto de varios pasatiempos en mi tiempo libre:
+I enjoy various hobbies in my free time:
 
-- **Videojuegos**: Me encanta sumergirme en mundos virtuales y explorar nuevas aventuras. Siempre estoy buscando nuevos juegos para jugar y desafíos para superar.
+- **Video Games**: I love immersing myself in virtual worlds and exploring new adventures. I'm always on the lookout for new games to play and challenges to overcome.
   
-- **Anime**: Soy un gran fan del anime y disfruto viendo una amplia variedad de géneros. Desde acción hasta comedia, siempre hay algo interesante que ver.
+- **Anime**: I'm a big fan of anime and enjoy watching a wide variety of genres. From action to comedy, there's always something interesting to watch.
+  
+- **Reading**: Both manga and books are an important part of my life. I love getting lost in the pages of a good story and exploring different universes and perspectives.
 
-- **Leer**: Tanto los mangas como los libros son una parte importante de mi vida. Me encanta perderme en las páginas de una buena historia y explorar diferentes universos y perspectivas.
+These hobbies provide me with moments of entertainment and also inspire me in my work and programming projects.
 
-Estos pasatiempos me brindan momentos de entretenimiento y también me inspiran en mi trabajo y proyectos de programación.
+## Let's Connect
 
-
-## Conectemos
-
-Estoy emocionado de unirme a la comunidad de GitHub y aprender de otros desarrolladores talentosos. ¡No dudes en contactarme!
+I'm excited to join the GitHub community and learn from other talented developers. Feel free to contact me!
 
 ---
 
-¡Gracias por visitar mi perfil!
+Thanks for visiting my profile!
+
 
