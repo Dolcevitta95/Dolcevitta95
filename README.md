@@ -50,14 +50,14 @@ Thanks for visiting my profile!
 ## GitHub Analytics
 
 <details>
-<summary>Estadísticas Generales</summary>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sweetvitta&theme=ambient_gradient&show_icons=true)
 
 </details>
 
 <details>
-<summary>Principales Lenguajes</summary>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sweetvitta&theme=ambient_gradient&layout=compact)](https://github.com/sweetvitta/github-readme-stats)
 
