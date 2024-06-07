@@ -36,7 +36,6 @@ These hobbies provide me with moments of entertainment and also inspire me in my
 I'm excited to join the GitHub community and learn from other talented developers. Feel free to contact me!
 
 ---
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
