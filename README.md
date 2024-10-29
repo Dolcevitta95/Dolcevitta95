@@ -49,9 +49,9 @@ Thanks for visiting my profile!
 ---
 ## GitHub Analytics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolcevitta&theme=ambient_gradient&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dolcevitta95&theme=ambient_gradient&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dolcevitta&theme=ambient_gradient&layout=compact)](https://github.com/dolcevitta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dolcevitta95&theme=ambient_gradient&layout=compact)](https://github.com/Dolcevitta95/github-readme-stats)
 
 
 
