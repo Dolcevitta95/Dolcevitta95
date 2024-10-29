@@ -1,35 +1,52 @@
 # GitHub Bio
 
-# 👋 Hello!
+👋 **Hello!**
 
 ### A Little About Me
 
-I'm new to the GitHub field, but I'm eager to learn and grow! I started my journey in the programming world in February of this year, learning the basics and making strides. Currently, I'm participating in an artificial intelligence bootcamp at Factoria F5, where I'm exploring new areas and expanding my skills.
+I'm an enthusiastic learner diving into the fields of **Artificial Intelligence**, **Data Analysis**, and **Data Science**. My journey in programming began in February of this year, and since then, I've been committed to growing my skills and expanding my understanding. Currently, I'm participating in an **AI bootcamp at Factoria F5**, where I’m exploring the fascinating intersections of data and technology.
 
-### 💻 Programming Skills
+---
 
-- **C**: I learned the basics of C during my time at the 42 piscine. Although my knowledge is limited, I'm excited to continue exploring and improving in this language.
-- **Python**: I've had the chance to dabble in Python, and I'm enjoying every step I take in this language.
+💻 **Technical Skills**
 
-### 🧠 Passion for Artificial Intelligence
+- **Python**: My main language for AI and data science projects. I’m actively developing my skills in Python for data manipulation, analysis, and machine learning.
 
-I'm passionate about the fascinating world of artificial intelligence and machine learning. I'm excited to explore how these fields can transform our lives and solve complex problems.
+- **C**: I started with the basics of C at the 42 piscine, which taught me the importance of structured thinking and problem-solving. Although I mainly work in Python, I appreciate the solid foundation C provides.
 
-### 🐱 Cat Lover
+- **SQL & Databases**: I’m gaining experience in data querying and management with SQL, a key skill for data-driven decision-making and analysis.
 
-I can't forget to mention my love for cats! Spending time with them is one of my favorite activities outside of programming.
+- **Data Visualization**: I’m learning to create insightful visualizations using tools like **Power BI** and **Seaborn** to communicate data findings clearly and effectively.
 
-### 🎮 Hobbies
+---
 
-I enjoy various hobbies in my free time:
+🧠 **Passion for Artificial Intelligence**
 
-- **Video Games**: I love immersing myself in virtual worlds and exploring new adventures. I'm always on the lookout for new games to play and challenges to overcome.
+My primary focus is on the incredible potential of artificial intelligence and machine learning to transform data into actionable insights and solutions. I’m especially interested in exploring how AI can solve complex problems and drive innovation in various fields.
+
+📊 **Data Analysis & Science**
+
+I’m drawn to uncovering patterns and insights hidden within data. I’m honing my skills in data analysis and visualization to make sense of data and support evidence-based decisions. I believe that data science is not only about finding answers but also about asking the right questions.
+
+---
+
+🐱 **Cat Lover**
+
+As a cat lover, I cherish spending quality time with my feline friends. They bring joy and calmness into my life, balancing my intense focus on learning and development.
+
+🎮 **Hobbies**
+
+In my free time, I enjoy a variety of activities that spark creativity and relaxation:
+
+- **Video Games**: Exploring new worlds and challenges is my way of unwinding. I enjoy both single-player adventures and multiplayer challenges.
   
-- **Anime**: I'm a big fan of anime and enjoy watching a wide variety of genres. From action to comedy, there's always something interesting to watch.
-  
-- **Reading**: Both manga and books are an important part of my life. I love getting lost in the pages of a good story and exploring different universes and perspectives.
+- **Anime**: I'm a fan of anime and enjoy exploring different genres. It provides me with inspiration and often sparks new ideas for creative projects.
 
-These hobbies provide me with moments of entertainment and also inspire me in my work and programming projects.
+- **Reading**: I love diving into both manga and books, especially those with complex characters and unique perspectives. Reading fuels my curiosity and broadens my understanding of different viewpoints.
+
+---
+
+These hobbies provide balance in my life, offering inspiration and moments of enjoyment outside of my technical pursuits.
 
 ## Let's Connect
 
