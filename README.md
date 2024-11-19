@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=18&height=300&section=header&text=✨%20Vittoria%20De%20Novellis%20✨&fontSize=45&animation=twinkling&fontColor=ffffff&desc=AI%20Developer%20•%20Data%20Analyst%20•%20Data%20Scientist&descAlignY=65&descSize=20)
 # GitHub Bio
 
 👋 **Hello!**
