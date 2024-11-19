@@ -17,15 +17,18 @@
 </div>
 
 
-👋 **Hello!**
 
-### A Little About Me
+## 🌸 About Me 
 
-I'm an enthusiastic learner diving into the fields of **Artificial Intelligence**, **Data Analysis**, and **Data Science**. My journey in programming began in February of this year, and since then, I've been committed to growing my skills and expanding my understanding. Currently, I'm participating in an **AI bootcamp at Factoria F5**, where I’m exploring the fascinating intersections of data and technology.
+<img align="right" height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
----
+I'm an enthusiastic learner diving into the fascinating world of **Artificial Intelligence**, **Data Analysis**, and **Data Science**. My journey in programming began in February 2024, and since then, I've been committed to growing my skills at the **AI bootcamp at Factoria F5** 🚀
 
-💻 **Technical Skills**
+
+
+
+
+## 💻 **Technical Skills**
 
 - **Python**: My main language for AI and data science projects. I’m actively developing my skills in Python for data manipulation, analysis, and machine learning.
 
@@ -35,9 +38,28 @@ I'm an enthusiastic learner diving into the fields of **Artificial Intelligence*
 
 - **Data Visualization**: I’m learning to create insightful visualizations using tools like **Power BI** and **Seaborn** to communicate data findings clearly and effectively.
 
+
+<summary>Programming Languages</summary>
+
+  
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+<summary>Data Science & AI Tools</summary>
+
+
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+
+
 ---
 
-🧠 **Passion for Artificial Intelligence**
+## 🧠 **Passion for Artificial Intelligence**
 
 My primary focus is on the incredible potential of artificial intelligence and machine learning to transform data into actionable insights and solutions. I’m especially interested in exploring how AI can solve complex problems and drive innovation in various fields.
 
@@ -47,11 +69,8 @@ I’m drawn to uncovering patterns and insights hidden within data. I’m honing
 
 ---
 
-🐱 **Cat Lover**
-
-As a cat lover, I cherish spending quality time with my feline friends. They bring joy and calmness into my life, balancing my intense focus on learning and development.
-
-🎮 **Hobbies**
+## 🎮 **Hobbies**
+<img align="left" height="150" src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif"/>
 
 In my free time, I enjoy a variety of activities that spark creativity and relaxation:
 
@@ -60,21 +79,38 @@ In my free time, I enjoy a variety of activities that spark creativity and relax
 - **Anime**: I'm a fan of anime and enjoy exploring different genres. It provides me with inspiration and often sparks new ideas for creative projects.
 
 - **Reading**: I love diving into both manga and books, especially those with complex characters and unique perspectives. Reading fuels my curiosity and broadens my understanding of different viewpoints.
-
----
-
-These hobbies provide balance in my life, offering inspiration and moments of enjoyment outside of my technical pursuits.
-
-## Let's Connect
-
-I'm excited to join the GitHub community and learn from other talented developers. Feel free to contact me!
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Aquí puedes añadir iconos de redes sociales si deseas -->
+- **I LOVE CATS** 😻​😼​😽​
+<p>
+  These hobbies provide balance in my life, offering inspiration and moments of enjoyment outside of my technical pursuits.
 </p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dolcevitta95&theme=dracula&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dolcevitta95&theme=dracula&layout=compact&langs_count=6"/>
+</div>
+
+---
+
+### 🤝 Let's Connect!
+
+<p align="center">
+  <a href="[tu_linkedin](https://www.linkedin.com/in/vittoria-de-novellis-390aa9158/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="[tu_github](https://github.com/Dolcevitta95)" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dolcevitta95&color=ff69b4&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -129,12 +165,7 @@ I'm excited to join the GitHub community and learn from other talented developer
 
 Thanks for visiting my profile!
 
----
-## GitHub Analytics
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dolcevitta95&theme=ambient_gradient&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dolcevitta95&theme=ambient_gradient&layout=compact)](https://github.com/Dolcevitta95/github-readme-stats)
 
 
 
