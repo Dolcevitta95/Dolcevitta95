@@ -1,5 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=18&height=300&section=header&text=✨%20Vittoria%20De%20Novellis%20✨&fontSize=45&animation=twinkling&fontColor=ffffff&desc=AI%20Developer%20•%20Data%20Analyst%20•%20Data%20Scientist&descAlignY=65&descSize=20)
-# GitHub Bio
+<div align="center">
+  <img src="https://i.pinimg.com/originals/ef/6d/8a/ef6d8a4344264b5f26147bd2bb66e146.gif" width="100%" height="300" />
+  
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&pause=1000&color=FF1493&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%8C%B8+Vittoria+De+Novellis+%F0%9F%8C%B8;%E2%9C%A8+Data+Science+Princess+%E2%9C%A8" alt="Typing SVG" />
+  </div>
+
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=25&duration=4000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=AI+Developer+%F0%9F%8C%9F;Data+Analyst+%F0%9F%92%96;Data+Scientist+%F0%9F%8C%B8" alt="Typing SVG" />
+  </div>
+
+  <p align="center">
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30">
+    <i>Where Data Meets Magic</i>
+    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30">
+  </p>
+</div>
+
 
 👋 **Hello!**
 
